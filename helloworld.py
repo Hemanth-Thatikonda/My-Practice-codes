@@ -1,0 +1,6 @@
+a=input("enter the a:")
+b=input("enter the b:")
+bucket1=(a,b)
+print("before swapping:", bucket1)
+bucket2=(b,a)
+print("after swapping:", bucket2)
